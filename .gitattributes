@@ -1,2 +1,30 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Parks to Visit</title>
+    </head>
+    
+    <body>
+        <a href= "https://en.wikipedia.org/wiki/Yosemite_National_Park"
+        <img src="https://th.bing.com/th/id/OIP.Mb-GL69J_uAkYedZ5BLtHwHaE7?pid=ImgDet&rs=1">
+            </a> 
+            
+             <a href= "https://en.wikipedia.org/wiki/Banff_National_Park"
+        <img src="https://travel.usnews.com/dims4/USNEWS/89d390e/2147483647/resize/445x280%5E%3E/crop/445x280/quality/85/?url=https://travel.usnews.com/images/banff_national_park_cropped_445x280_OZqvkKM.jpg" width="100px" height="100px">
+            </a>  
+            
+             <a href= "https://en.wikipedia.org/wiki/Grand_Canyon_National_Park"
+        <img src="https://th.bing.com/th/id/OIP.XRBs6wfNSwlkCOg-U-Y_WAHaE8?pid=ImgDet&rs=1">
+            </a> 
+            
+             <a href= "https://en.wikipedia.org/wiki/Glacier_National_Park_(Canada)"
+        <img src="https://th.bing.com/th/id/OIP.k_oA3IP2dOVTXMElbvLTRQHaE5?pid=ImgDet&rs=1">
+            </a> 
+            
+             <a href= "https://en.wikipedia.org/wiki/Yellowstone_National_Park"
+             
+        <img src="https://th.bing.com/th/id/OIP.I7tswNyLoypfm0Jujc76CgHaE8?pid=ImgDet&rs=1">
+            </a> 
+            
+    </body>
+</html>
